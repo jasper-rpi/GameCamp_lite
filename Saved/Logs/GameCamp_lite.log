@@ -3922,3 +3922,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.11-20.04.10:283][781]LogSavePackage: Moving '../../../../../Unreal Projects/GameCamp_lite/Saved/Untitled_Auto8A52601474B3E43DB301475B83594A396.tmp' to '../../../../../Unreal Projects/GameCamp_lite/Saved/Autosaves/Game/Untitled_Auto8.umap'
 [2024.10.11-20.04.10:319][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.124
 [2024.10.11-20.04.10:319][781]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.124
+[2024.10.11-20.08.41:371][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-20.08.41:593][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestCharacter/papertestcharacter" FILE="../../../../../Unreal Projects/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset" SILENT=true
+[2024.10.11-20.08.41:699][598]LogSavePackage: Moving output files for package: /Game/TestCharacter/papertestcharacter
+[2024.10.11-20.08.41:700][598]LogSavePackage: Moving '../../../../../Unreal Projects/GameCamp_lite/Saved/papertestcharacter69CBBB03495A5DE4C563E592FE92C9E9.tmp' to '../../../../../Unreal Projects/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset'
+[2024.10.11-20.08.41:724][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 353 ms (total: 5.31 sec)
+[2024.10.11-20.08.43:009][598]AssetCheck: New page: Asset Save: papertestcharacter
+[2024.10.11-20.08.43:015][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestCharacter/papertestcharacter.papertestcharacter
+[2024.10.11-20.08.43:399][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-20.08.43:525][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../Unreal Projects/GameCamp_lite/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-20.08.43:725][607]LogUObjectHash: Compacting FUObjectHashTables data took  26.30ms
+[2024.10.11-20.08.43:769][607]LogSavePackage: Moving output files for package: /Game/Untitled
+[2024.10.11-20.08.43:770][607]LogSavePackage: Moving '../../../../../Unreal Projects/GameCamp_lite/Saved/Untitled70C8E00F43DD03CEBF8C25B3B4FE255C.tmp' to '../../../../../Unreal Projects/GameCamp_lite/Content/Untitled.umap'
+[2024.10.11-20.08.43:820][607]LogFileHelpers: Saving map 'Untitled' took 0.298
+[2024.10.11-20.08.43:837][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 437 ms (total: 5.74 sec)
+[2024.10.11-20.08.43:847][607]AssetCheck: New page: Asset Save: Untitled
+[2024.10.11-20.08.43:847][607]LogContentValidation: Display: Validating /Script/Engine.World /Game/Untitled.Untitled
