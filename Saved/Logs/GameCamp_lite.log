@@ -1244,3 +1244,45 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.11-18.20.07:748][677]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
 [2024.10.11-18.20.07:748][677]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
 [2024.10.11-18.20.10:397][829]LogConcert: Display: Server MYSTERIOUS-ROG lost.
+[2024.10.11-18.23.20:688][637]LogSlate: Window 'Multi-User Browser' being destroyed
+[2024.10.11-18.23.20:711][637]LogSlate: Window 'Multi-User Browser' being destroyed
+[2024.10.11-18.23.23:537][805]LogEditorViewport: Clicking Background
+[2024.10.11-18.23.41:044][670]LogContentBrowser: Deferred new asset file creation: player_Child
+[2024.10.11-18.23.41:075][670]LogContentBrowser: Creating deferred item: player_Child
+[2024.10.11-18.23.41:114][671]LogContentBrowser: Renaming the item being created (Deferred Item: player_Child).
+[2024.10.11-18.23.47:570][ 58]LogContentBrowser: Attempting asset rename: player_Child -> paperzdtest
+[2024.10.11-18.23.47:706][ 58]LogContentBrowser: End creating deferred item player_Child
+[2024.10.11-18.23.49:516][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/paperzdtest.paperzdtest
+[2024.10.11-18.23.49:521][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-18.23.49:521][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-18.23.51:518][162]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.10.11-18.23.54:803][162]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.047285s
+[2024.10.11-18.23.59:408][162]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005671s (4.650484s overbudget)
+[2024.10.11-18.23.59:756][162]LogViewport: Scene viewport resized to 988x745, mode Windowed.
+[2024.10.11-18.23.59:966][163]LogAutomationController: Ignoring very large delta of 10.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-18.24.02:328][237]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2024.10.11-18.24.07:126][361]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.10.11-18.24.12:565][516]LogSlate: Window 'paperzdtest' being destroyed
+[2024.10.11-18.24.12:580][516]LogSlate: Window 'paperzdtest' being destroyed
+[2024.10.11-18.24.12:604][516]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-18.24.12:604][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-18.24.24:102][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/paperzdtest.paperzdtest
+[2024.10.11-18.24.24:106][ 98]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-18.24.24:106][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-18.26.06:885][812]LogSlate: Window 'paperzdtest' being destroyed
+[2024.10.11-18.26.06:903][812]LogSlate: Window 'paperzdtest' being destroyed
+[2024.10.11-18.26.06:916][812]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-18.26.06:917][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-18.26.47:324][649]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.11-18.26.47:337][649]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.11-18.26.54:047][  6]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2024.10.11-18.29.51:559][197]LogUObjectHash: Compacting FUObjectHashTables data took  19.80ms
+[2024.10.11-18.29.51:573][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_2' took 0.340
+[2024.10.11-18.29.51:583][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/paperzdtest] ([2] browsable assets)...
+[2024.10.11-18.29.51:583][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/paperzdtest]
+[2024.10.11-18.29.51:584][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paperzdtest" FILE="../../../../../Unreal Projects/GameCamp_lite/Saved/Autosaves/Game/paperzdtest_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.10.11-18.29.51:627][197]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.031086 seconds
+[2024.10.11-18.29.51:668][197]LogSerialization: UsePackageTrailer: 'true'
+[2024.10.11-18.29.51:681][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/paperzdtest_Auto1
+[2024.10.11-18.29.51:681][197]LogSavePackage: Moving '../../../../../Unreal Projects/GameCamp_lite/Saved/paperzdtest_Auto11603D47744CC2487EC112F94D7A807EF.tmp' to '../../../../../Unreal Projects/GameCamp_lite/Saved/Autosaves/Game/paperzdtest_Auto1.uasset'
+[2024.10.11-18.29.51:695][197]LogFileHelpers: Auto-saving content packages took 0.118
