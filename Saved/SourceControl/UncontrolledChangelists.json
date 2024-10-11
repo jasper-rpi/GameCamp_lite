@@ -87,17 +87,6 @@
 				"C:/Users/Jaspe/Documents/Unreal Projects/GameCamp_lite/Content/testfield.umap",
 				"C:/Users/Jaspe/Documents/Unreal Projects/GameCamp_lite/Content/Untitled.umap",
 				"C:/Users/Jaspe/Documents/Unreal Projects/GameCamp_lite/Content/player.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/paperzdtest.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/WalkSprites/Unarmed_Walk_full.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/Main/Unarmed_Idle_full.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/Unarmed_Idle_full.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/IdleSprites/Unarmed_Idle_full.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/testflipbook.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/WalkDown.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/AnimSequences/WalkDown.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/DownIdle.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/animBP.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/IdleSprites/DownIdle1.uasset",
 				"D:/Unreal Projects/GameCamp_lite/Content/TestCharacter/AnimSequences/WalkDown.uasset",
 				"D:/Unreal Projects/GameCamp_lite/Content/TestCharacter/IdleSprites/Unarmed_Idle_full_IdleSprite_39.uasset",
 				"D:/Unreal Projects/GameCamp_lite/Content/TestCharacter/IdleSprites/Unarmed_Idle_full_IdleSprite_38.uasset",
@@ -176,7 +165,19 @@
 				"D:/Unreal Projects/GameCamp_lite/Content/Input1.uasset",
 				"D:/Unreal Projects/GameCamp_lite/Content/TestCharacter/testGM.uasset",
 				"D:/Unreal Projects/GameCamp_lite/Content/mappings.uasset",
-				"D:/Unreal Projects/GameCamp_lite/Content/testcontext.uasset"
+				"D:/Unreal Projects/GameCamp_lite/Content/testcontext.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/Main/Maps/DreamWorld.umap",
+				"D:/Unreal Projects/GameCamp_lite/Content/paperzdtest.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/WalkSprites/Unarmed_Walk_full.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/Main/Unarmed_Idle_full.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/Unarmed_Idle_full.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/IdleSprites/Unarmed_Idle_full.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/testflipbook.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/WalkDown.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/AnimSequences/WalkDown.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/DownIdle.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/animBP.uasset",
+				"D:/Unreal Projects/GameCamp_lite/Content/IdleSprites/DownIdle1.uasset"
 			]
 		}
 	]
