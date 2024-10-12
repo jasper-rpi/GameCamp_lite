@@ -1932,3 +1932,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.12-11.40.05:737][141]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/TestCharacter/animBP.animBP
 [2024.10.12-11.40.19:056][224]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.10.12-11.41.09:657][375]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.12-11.41.28:459][431]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
