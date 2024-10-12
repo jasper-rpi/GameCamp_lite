@@ -1209,3 +1209,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.12-11.47.28:775][714]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.10.12-11.47.48:687][774]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.10.12-11.48.05:069][823]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.12-11.48.21:016][871]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.12-11.48.36:134][916]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.12-11.48.50:196][958]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.12-11.49.04:940][  2]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.12-11.49.20:853][ 50]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
