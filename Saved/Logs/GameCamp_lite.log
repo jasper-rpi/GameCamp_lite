@@ -14281,3 +14281,985 @@ Script Stack (1 frames) :
 [2024.10.12-10.16.22:278][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 10.8 sec)
 [2024.10.12-10.16.22:285][748]AssetCheck: New page: Asset Save: DreamWorld
 [2024.10.12-10.16.22:285][748]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/DreamWorld.DreamWorld
+[2024.10.12-10.17.19:582][560]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Main/Input/IA_Walk.IA_Walk
+[2024.10.12-10.17.30:989][909]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TestCharacter/mappings.mappings
+[2024.10.12-10.18.06:739][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.18.06:776][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestCharacter/papertestcharacter" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset" SILENT=true
+[2024.10.12-10.18.06:807][730]LogSavePackage: Moving output files for package: /Game/TestCharacter/papertestcharacter
+[2024.10.12-10.18.06:808][730]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/papertestcharacter0FDA715C4CF66CAB60DF5DAADA3699EF.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset'
+[2024.10.12-10.18.06:821][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 10.9 sec)
+[2024.10.12-10.18.06:829][730]AssetCheck: New page: Asset Save: papertestcharacter
+[2024.10.12-10.18.06:829][730]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestCharacter/papertestcharacter.papertestcharacter
+[2024.10.12-10.18.12:752][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.12-10.18.13:870][319]LogSlate: Window 'Save Content' being destroyed
+[2024.10.12-10.18.13:883][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.18.13:914][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestCharacter/papertestcharacter" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset" SILENT=true
+[2024.10.12-10.18.13:946][319]LogSavePackage: Moving output files for package: /Game/TestCharacter/papertestcharacter
+[2024.10.12-10.18.13:947][319]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/papertestcharacterF97873414C01163ABBEA75A0CD92809C.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset'
+[2024.10.12-10.18.13:958][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 10.9 sec)
+[2024.10.12-10.18.13:965][319]AssetCheck: New page: Asset Save: papertestcharacter
+[2024.10.12-10.18.13:966][319]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestCharacter/papertestcharacter.papertestcharacter
+[2024.10.12-10.18.15:149][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.18.15:189][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestCharacter/papertestcharacter" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset" SILENT=true
+[2024.10.12-10.18.15:221][421]LogSavePackage: Moving output files for package: /Game/TestCharacter/papertestcharacter
+[2024.10.12-10.18.15:221][421]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/papertestcharacter58F53A744A7027798ED616A0BF28E2A2.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset'
+[2024.10.12-10.18.15:231][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 11.0 sec)
+[2024.10.12-10.18.15:240][421]AssetCheck: New page: Asset Save: papertestcharacter
+[2024.10.12-10.18.15:240][421]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestCharacter/papertestcharacter.papertestcharacter
+[2024.10.12-10.18.48:717][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Meshes/SM_PieceMesh.SM_PieceMesh
+[2024.10.12-10.18.48:717][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Meshes/SM_PieceMesh.SM_PieceMesh
+[2024.10.12-10.18.48:717][739]LogActorFactory: Actor Factory spawned StaticMesh /Game/Main/Meshes/SM_PieceMesh.SM_PieceMesh as actor: StaticMeshActor /Game/Main/Maps/DreamWorld.DreamWorld:PersistentLevel.StaticMeshActor_9
+[2024.10.12-10.18.49:071][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Meshes/SM_PieceMesh.SM_PieceMesh
+[2024.10.12-10.18.49:071][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Meshes/SM_PieceMesh.SM_PieceMesh
+[2024.10.12-10.18.49:073][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Main/Meshes/SM_PieceMesh.SM_PieceMesh as actor: StaticMeshActor /Game/Main/Maps/DreamWorld.DreamWorld:PersistentLevel.StaticMeshActor_10
+[2024.10.12-10.19.12:620][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.19.12:667][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/DreamWorld" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.12-10.19.12:696][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.12-10.19.12:716][560]LogSavePackage: Moving output files for package: /Game/Main/Maps/DreamWorld
+[2024.10.12-10.19.12:716][560]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/DreamWorld5718B72D4F85A2E6D630E2A24158002E.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap'
+[2024.10.12-10.19.12:723][560]LogFileHelpers: Saving map 'DreamWorld' took 0.056
+[2024.10.12-10.19.12:734][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 11.1 sec)
+[2024.10.12-10.19.12:741][560]AssetCheck: New page: Asset Save: DreamWorld
+[2024.10.12-10.19.12:741][560]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/DreamWorld.DreamWorld
+[2024.10.12-10.19.27:818][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Blueprints/BP_PlayingArea.BP_PlayingArea
+[2024.10.12-10.19.27:818][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.19.27:818][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.20.00:821][356]BlueprintLog: New page: Compile BP_PlayingArea
+[2024.10.12-10.20.00:912][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.12-10.20.01:496][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.20.01:540][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_PlayingArea" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_PlayingArea.uasset" SILENT=true
+[2024.10.12-10.20.01:556][415]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_PlayingArea
+[2024.10.12-10.20.01:557][415]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_PlayingArea1B8AA5334CBFACA1486A2EAB28A2AA47.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_PlayingArea.uasset'
+[2024.10.12-10.20.01:567][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 11.2 sec)
+[2024.10.12-10.20.01:574][415]AssetCheck: New page: Asset Save: BP_PlayingArea
+[2024.10.12-10.20.01:574][415]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_PlayingArea.BP_PlayingArea
+[2024.10.12-10.20.02:857][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.20.02:915][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/DreamWorld" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.12-10.20.02:945][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.12-10.20.02:965][533]LogSavePackage: Moving output files for package: /Game/Main/Maps/DreamWorld
+[2024.10.12-10.20.02:965][533]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/DreamWorldE391F03240FFAB1599B777ABF4DD968A.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap'
+[2024.10.12-10.20.02:973][533]LogFileHelpers: Saving map 'DreamWorld' took 0.058
+[2024.10.12-10.20.02:983][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 11.3 sec)
+[2024.10.12-10.20.02:991][533]AssetCheck: New page: Asset Save: DreamWorld
+[2024.10.12-10.20.02:991][533]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/DreamWorld.DreamWorld
+[2024.10.12-10.20.08:866][975]Cmd: DELETE
+[2024.10.12-10.20.08:866][975]Cmd: ACTOR DELETE
+[2024.10.12-10.20.08:869][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.12-10.20.08:899][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.10.12-10.20.08:901][975]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.10.12-10.20.10:502][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.20.10:554][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/DreamWorld" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.12-10.20.10:582][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.12-10.20.10:601][110]LogSavePackage: Moving output files for package: /Game/Main/Maps/DreamWorld
+[2024.10.12-10.20.10:601][110]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/DreamWorldFC105DC0422153141CA3FDAF60CA6984.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap'
+[2024.10.12-10.20.10:609][110]LogFileHelpers: Saving map 'DreamWorld' took 0.056
+[2024.10.12-10.20.10:620][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 11.5 sec)
+[2024.10.12-10.20.10:628][110]AssetCheck: New page: Asset Save: DreamWorld
+[2024.10.12-10.20.10:628][110]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/DreamWorld.DreamWorld
+[2024.10.12-10.20.18:421][757]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main/UI/WB_Overlay.WB_Overlay
+[2024.10.12-10.20.18:421][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.20.18:421][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.20.18:441][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.20.18:441][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.22.12:920][ 32]LogInterchangeEngine: [Pending] Importing
+[2024.10.12-10.22.12:920][ 32]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/robyp/Desktop/Gamejamhand.png]
+[2024.10.12-10.22.12:959][ 33]LogInterchangeEngine: [Pending] Importing
+[2024.10.12-10.22.12:964][ 33]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.10.12-10.22.13:157][ 33]LogTexture: Display: Building textures: /Game/Main/Sprites/hand.hand (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 145.960938 MB), EncodeSpeed: Fast
+[2024.10.12-10.22.13:165][ 33]LogInterchangeEngine: [Success] Import Done
+[2024.10.12-10.22.13:225][ 34]LogInterchangeEngine: [Success] Import Done
+[2024.10.12-10.22.35:312][ 40]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.12-10.23.45:959][ 55]BlueprintLog: New page: Compile WB_Overlay
+[2024.10.12-10.23.46:005][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.12-10.23.46:584][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.23.46:628][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/UI/WB_Overlay" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/UI/WB_Overlay.uasset" SILENT=true
+[2024.10.12-10.23.46:631][ 97]LogSavePackage: Moving output files for package: /Game/Main/UI/WB_Overlay
+[2024.10.12-10.23.46:631][ 97]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/WB_Overlay5345D8D0447DC614640EA7945B16946C.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/UI/WB_Overlay.uasset'
+[2024.10.12-10.23.46:640][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 11.5 sec)
+[2024.10.12-10.23.46:647][ 97]AssetCheck: New page: Asset Save: WB_Overlay
+[2024.10.12-10.23.46:647][ 97]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Main/UI/WB_Overlay.WB_Overlay
+[2024.10.12-10.24.16:624][325]BlueprintLog: New page: Compile papertestcharacter
+[2024.10.12-10.24.16:696][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.12-10.24.17:486][399]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.24.17:494][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.24.17:494][399]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:24:17)
+[2024.10.12-10.24.17:494][399]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.24.17:500][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005844s)
+[2024.10.12-10.24.17:500][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.005887s)
+[2024.10.12-10.24.17:500][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.24.17:500][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.24.17:501][399]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.24.17:501][399]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2024.10.12-10.24.17:528][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.12-10.24.17:531][399]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.10.12-10.24.17:531][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.24.17:531][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.24.17:531][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.24.17:531][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.24.17:531][399]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.24.17:531][399]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.24.17:531][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.24.17:531][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.24.17:531][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.24.17:531][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.24.17:531][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.24.17:533][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.24.17:563][399]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.24.17:563][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.24.17:563][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.24.17:563][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.24.17:564][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.10.12-10.24.17:564][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.10.12-10.24.17:567][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.10.12-10.24.17:567][399]LogInit: FAudioDevice initialized with ID 50.
+[2024.10.12-10.24.17:567][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.10.12-10.24.17:567][399]LogAudio: Display: Audio Device (ID: 50) registered with world 'DreamWorld'.
+[2024.10.12-10.24.17:567][399]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.10.12-10.24.17:596][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.24.17:598][399]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.24.17:603][399]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.24.17
+[2024.10.12-10.24.17:603][399]LogWorld: Bringing up level for play took: 0.004697
+[2024.10.12-10.24.17:605][399]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.10.12-10.24.17:611][399]PIE: Server logged in
+[2024.10.12-10.24.17:614][399]PIE: Play in editor total start time 0.121 seconds.
+[2024.10.12-10.24.17:624][399]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.12-10.24.25:762][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.24.25:762][913]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.24.25:763][913]LogSlate: Window 'GameCamp_lite Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.10.12-10.24.25:772][913]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.24.25:772][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.24.25:775][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.24.25:781][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.24.25:809][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-10.24.25:809][913]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.10.12-10.24.25:809][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.10.12-10.24.25:811][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.10.12-10.24.25:819][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.12-10.24.25:839][914]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.10.12-10.24.44:279][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.24.44:319][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestCharacter/papertestcharacter" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset" SILENT=true
+[2024.10.12-10.24.44:352][556]LogSavePackage: Moving output files for package: /Game/TestCharacter/papertestcharacter
+[2024.10.12-10.24.44:352][556]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/papertestcharacter5E5E4C634A775D869A2D79854908B702.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset'
+[2024.10.12-10.24.44:362][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 11.6 sec)
+[2024.10.12-10.24.44:371][556]AssetCheck: New page: Asset Save: papertestcharacter
+[2024.10.12-10.24.44:371][556]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestCharacter/papertestcharacter.papertestcharacter
+[2024.10.12-10.25.08:072][968]LogEditorTransaction: Undo Resize Widget
+[2024.10.12-10.25.08:617][983]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.12-10.25.09:139][ 28]LogEditorTransaction: Undo Move Node
+[2024.10.12-10.25.09:951][ 99]LogEditorTransaction: Undo Add Node
+[2024.10.12-10.25.39:512][927]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.10.12-10.25.39:512][927]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.12-10.26.18:966][909]BlueprintLog: New page: Compile WB_Overlay
+[2024.10.12-10.26.19:004][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.12-10.26.21:074][ 90]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.26.21:081][ 90]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.12-10.26.21:084][ 90]LogPlayLevel: [PlayLevel] Compiling papertestcharacter before play...
+[2024.10.12-10.26.21:162][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.12-10.26.21:165][ 90]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2024.10.12-10.26.21:165][ 90]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:26:21)
+[2024.10.12-10.26.21:165][ 90]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.26.21:171][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005356s)
+[2024.10.12-10.26.21:171][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.005401s)
+[2024.10.12-10.26.21:171][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.26.21:171][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.26.21:171][ 90]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.26.21:172][ 90]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2024.10.12-10.26.21:199][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.10.12-10.26.21:200][ 90]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.10.12-10.26.21:200][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.26.21:200][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.26.21:200][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.26.21:200][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.26.21:200][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.26.21:200][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.26.21:200][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.26.21:200][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.26.21:201][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.26.21:201][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.26.21:201][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.26.21:203][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.26.21:232][ 90]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.26.21:233][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.26.21:233][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.26.21:233][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.26.21:234][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.10.12-10.26.21:234][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.10.12-10.26.21:235][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.10.12-10.26.21:235][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.10.12-10.26.21:235][ 90]LogInit: FAudioDevice initialized with ID 51.
+[2024.10.12-10.26.21:235][ 90]LogAudio: Display: Audio Device (ID: 51) registered with world 'DreamWorld'.
+[2024.10.12-10.26.21:235][ 90]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.10.12-10.26.21:266][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.26.21:267][ 90]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.26.21:270][ 90]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.26.21
+[2024.10.12-10.26.21:270][ 90]LogWorld: Bringing up level for play took: 0.003649
+[2024.10.12-10.26.21:273][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.10.12-10.26.21:278][ 90]PIE: Server logged in
+[2024.10.12-10.26.21:280][ 90]PIE: Play in editor total start time 0.198 seconds.
+[2024.10.12-10.26.21:293][ 90]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.12-10.26.22:453][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.26.22:453][143]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.26.22:453][143]LogSlate: Window 'GameCamp_lite Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.10.12-10.26.22:462][143]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.26.22:462][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.26.22:467][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.26.22:472][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.26.22:501][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.10.12-10.26.22:502][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.10.12-10.26.22:504][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.10.12-10.26.22:512][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.12-10.26.22:536][144]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.10.12-10.26.23:685][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.26.23:694][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.26.23:694][232]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:26:23)
+[2024.10.12-10.26.23:695][232]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.26.23:701][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006054s)
+[2024.10.12-10.26.23:701][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.006107s)
+[2024.10.12-10.26.23:701][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.26.23:701][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.26.23:701][232]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.26.23:702][232]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2024.10.12-10.26.23:729][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.12-10.26.23:732][232]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.10.12-10.26.23:732][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.26.23:732][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.26.23:732][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.26.23:732][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.26.23:732][232]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.26.23:732][232]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.26.23:732][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.26.23:732][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.26.23:732][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.26.23:732][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.26.23:732][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.26.23:735][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.26.23:763][232]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.26.23:764][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.26.23:764][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.26.23:764][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.26.23:764][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.10.12-10.26.23:765][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.10.12-10.26.23:767][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.10.12-10.26.23:767][232]LogInit: FAudioDevice initialized with ID 52.
+[2024.10.12-10.26.23:767][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.10.12-10.26.23:767][232]LogAudio: Display: Audio Device (ID: 52) registered with world 'DreamWorld'.
+[2024.10.12-10.26.23:767][232]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.10.12-10.26.23:770][232]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.26.23:775][232]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.26.23
+[2024.10.12-10.26.23:775][232]LogWorld: Bringing up level for play took: 0.003629
+[2024.10.12-10.26.23:777][232]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.10.12-10.26.23:779][232]PIE: Server logged in
+[2024.10.12-10.26.23:780][232]PIE: Play in editor total start time 0.085 seconds.
+[2024.10.12-10.26.24:720][289]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.12-10.26.24:941][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.26.24:943][304]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.26.24:943][304]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.26.24:943][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.26.24:946][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.26.24:953][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.26.24:983][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.26.24:984][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.10.12-10.26.24:984][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.10.12-10.26.24:986][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.10.12-10.26.24:994][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.10.12-10.26.25:030][305]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.10.12-10.26.35:526][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.26.35:574][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/UI/WB_Overlay" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/UI/WB_Overlay.uasset" SILENT=true
+[2024.10.12-10.26.35:579][281]LogSavePackage: Moving output files for package: /Game/Main/UI/WB_Overlay
+[2024.10.12-10.26.35:579][281]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/WB_OverlayA850D5C54F6439640E5E0FA16C4F79B6.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/UI/WB_Overlay.uasset'
+[2024.10.12-10.26.35:589][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 11.7 sec)
+[2024.10.12-10.26.35:596][281]AssetCheck: New page: Asset Save: WB_Overlay
+[2024.10.12-10.26.35:596][281]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Main/UI/WB_Overlay.WB_Overlay
+[2024.10.12-10.26.48:649][667]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.26.48:661][667]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.12-10.26.48:665][667]LogPlayLevel: [PlayLevel] Compiling papertestcharacter before play...
+[2024.10.12-10.26.48:779][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.12-10.26.48:782][667]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2024.10.12-10.26.48:782][667]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:26:48)
+[2024.10.12-10.26.48:782][667]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.26.48:787][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005387s)
+[2024.10.12-10.26.48:787][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.005425s)
+[2024.10.12-10.26.48:787][667]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.26.48:787][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.26.48:788][667]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.26.48:788][667]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2024.10.12-10.26.48:815][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.12-10.26.48:816][667]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.10.12-10.26.48:816][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.26.48:816][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.26.48:816][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.26.48:816][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.26.48:816][667]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.26.48:816][667]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.26.48:816][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.26.48:816][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.26.48:817][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.26.48:817][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.26.48:817][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.26.48:819][667]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.26.48:849][667]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.26.48:849][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.26.48:849][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.26.48:849][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.26.48:850][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.10.12-10.26.48:850][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.10.12-10.26.48:852][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.10.12-10.26.48:852][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.10.12-10.26.48:852][667]LogInit: FAudioDevice initialized with ID 53.
+[2024.10.12-10.26.48:852][667]LogAudio: Display: Audio Device (ID: 53) registered with world 'DreamWorld'.
+[2024.10.12-10.26.48:852][667]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.10.12-10.26.48:855][667]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.26.48:858][667]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.26.48
+[2024.10.12-10.26.48:858][667]LogWorld: Bringing up level for play took: 0.003523
+[2024.10.12-10.26.48:861][667]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.10.12-10.26.48:863][667]PIE: Server logged in
+[2024.10.12-10.26.48:864][667]PIE: Play in editor total start time 0.203 seconds.
+[2024.10.12-10.26.53:688][ 48]LogViewport: Scene viewport resized to 2044x1254, mode Windowed.
+[2024.10.12-10.26.53:732][ 49]LogViewport: Scene viewport resized to 2064x1254, mode Windowed.
+[2024.10.12-10.26.53:791][ 50]LogViewport: Scene viewport resized to 2135x1254, mode Windowed.
+[2024.10.12-10.26.53:872][ 52]LogViewport: Scene viewport resized to 2257x1254, mode Windowed.
+[2024.10.12-10.26.53:963][ 54]LogViewport: Scene viewport resized to 2335x1254, mode Windowed.
+[2024.10.12-10.26.54:048][ 56]LogViewport: Scene viewport resized to 2398x1254, mode Windowed.
+[2024.10.12-10.26.54:141][ 58]LogViewport: Scene viewport resized to 2438x1254, mode Windowed.
+[2024.10.12-10.26.54:212][ 60]LogViewport: Scene viewport resized to 2451x1254, mode Windowed.
+[2024.10.12-10.26.54:342][ 66]LogViewport: Scene viewport resized to 2449x1254, mode Windowed.
+[2024.10.12-10.26.54:402][ 68]LogViewport: Scene viewport resized to 2442x1254, mode Windowed.
+[2024.10.12-10.26.54:472][ 70]LogViewport: Scene viewport resized to 2435x1254, mode Windowed.
+[2024.10.12-10.26.54:534][ 72]LogViewport: Scene viewport resized to 2415x1254, mode Windowed.
+[2024.10.12-10.26.54:599][ 74]LogViewport: Scene viewport resized to 2408x1254, mode Windowed.
+[2024.10.12-10.26.54:668][ 76]LogViewport: Scene viewport resized to 2397x1254, mode Windowed.
+[2024.10.12-10.26.54:735][ 78]LogViewport: Scene viewport resized to 2378x1254, mode Windowed.
+[2024.10.12-10.26.54:806][ 80]LogViewport: Scene viewport resized to 2314x1254, mode Windowed.
+[2024.10.12-10.26.54:856][ 81]LogViewport: Scene viewport resized to 2209x1254, mode Windowed.
+[2024.10.12-10.26.55:067][ 92]LogViewport: Scene viewport resized to 2162x1254, mode Windowed.
+[2024.10.12-10.26.55:139][ 94]LogViewport: Scene viewport resized to 2219x1254, mode Windowed.
+[2024.10.12-10.26.55:207][ 96]LogViewport: Scene viewport resized to 2273x1254, mode Windowed.
+[2024.10.12-10.27.10:562][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.27.10:562][270]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.27.10:562][270]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.27.10:563][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.27.10:572][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.27.10:581][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.27.10:616][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.27.10:616][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.10.12-10.27.10:617][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.10.12-10.27.10:618][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.10.12-10.27.10:626][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.12-10.27.10:665][271]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.10.12-10.27.15:587][756]BlueprintLog: New page: Compile papertestcharacter
+[2024.10.12-10.27.15:661][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.12-10.27.21:832][262]LogViewport: Scene viewport resized to 2267x1254, mode Windowed.
+[2024.10.12-10.27.21:899][264]LogViewport: Scene viewport resized to 2167x1254, mode Windowed.
+[2024.10.12-10.27.21:967][266]LogViewport: Scene viewport resized to 1958x1254, mode Windowed.
+[2024.10.12-10.27.22:039][268]LogViewport: Scene viewport resized to 1808x1254, mode Windowed.
+[2024.10.12-10.27.22:122][269]LogViewport: Scene viewport resized to 1799x1254, mode Windowed.
+[2024.10.12-10.27.22:402][292]LogViewport: Scene viewport resized to 1802x1254, mode Windowed.
+[2024.10.12-10.27.22:447][293]LogViewport: Scene viewport resized to 1808x1254, mode Windowed.
+[2024.10.12-10.27.22:499][295]LogViewport: Scene viewport resized to 1814x1254, mode Windowed.
+[2024.10.12-10.27.22:553][297]LogViewport: Scene viewport resized to 1833x1254, mode Windowed.
+[2024.10.12-10.27.22:614][299]LogViewport: Scene viewport resized to 1864x1254, mode Windowed.
+[2024.10.12-10.27.22:671][301]LogViewport: Scene viewport resized to 1905x1254, mode Windowed.
+[2024.10.12-10.27.22:716][302]LogViewport: Scene viewport resized to 1924x1254, mode Windowed.
+[2024.10.12-10.27.22:779][304]LogViewport: Scene viewport resized to 1942x1254, mode Windowed.
+[2024.10.12-10.27.48:548][474]Cmd: MODE GRID=1
+[2024.10.12-10.29.14:210][776]Cmd: DUPLICATE
+[2024.10.12-10.29.14:210][776]Cmd: ACTOR DUPLICATE
+[2024.10.12-10.29.25:152][985]Cmd: DUPLICATE
+[2024.10.12-10.29.25:152][985]Cmd: ACTOR DUPLICATE
+[2024.10.12-10.29.36:574][189]Cmd: TRANSACTION UNDO
+[2024.10.12-10.29.36:574][189]LogEditorTransaction: Undo Rotate Elements
+[2024.10.12-10.29.37:025][203]Cmd: TRANSACTION UNDO
+[2024.10.12-10.29.37:025][203]LogEditorTransaction: Undo Rotate Elements
+[2024.10.12-10.29.46:705][240]Cmd: DUPLICATE
+[2024.10.12-10.29.46:705][240]Cmd: ACTOR DUPLICATE
+[2024.10.12-10.29.57:476][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.29.57:484][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.29.57:484][340]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:29:57)
+[2024.10.12-10.29.57:485][340]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.29.57:495][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010017s)
+[2024.10.12-10.29.57:495][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.010071s)
+[2024.10.12-10.29.57:495][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.29.57:495][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.29.57:495][340]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.29.57:496][340]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2024.10.12-10.29.57:527][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.12-10.29.57:528][340]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.10.12-10.29.57:528][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.29.57:528][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.29.57:528][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.29.57:528][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.29.57:528][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.29.57:528][340]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.29.57:528][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.29.57:528][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.29.57:529][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.29.57:529][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.29.57:529][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.29.57:530][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.29.57:563][340]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.29.57:563][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.29.57:563][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.29.57:563][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.29.57:564][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2024.10.12-10.29.57:564][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2024.10.12-10.29.57:566][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2024.10.12-10.29.57:566][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2024.10.12-10.29.57:566][340]LogInit: FAudioDevice initialized with ID 54.
+[2024.10.12-10.29.57:566][340]LogAudio: Display: Audio Device (ID: 54) registered with world 'DreamWorld'.
+[2024.10.12-10.29.57:566][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2024.10.12-10.29.57:570][340]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.29.57:574][340]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.29.57
+[2024.10.12-10.29.57:574][340]LogWorld: Bringing up level for play took: 0.003856
+[2024.10.12-10.29.57:576][340]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.10.12-10.29.57:578][340]PIE: Server logged in
+[2024.10.12-10.29.57:579][340]PIE: Play in editor total start time 0.095 seconds.
+[2024.10.12-10.30.08:502][196]LogCharacterMovement: papertestcharacter_C_0 is stuck and failed to move! Velocity: X=176.69 Y=16.10 Z=0.00 Location: X=373.43 Y=615.70 Z=130.20 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:0.300 Actor:BP_Piece_C_3 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.10.12-10.30.33:453][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.30.33:453][151]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.30.33:453][151]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.30.33:454][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.30.33:457][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.30.33:462][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.30.33:491][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-10.30.33:492][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2024.10.12-10.30.33:492][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.10.12-10.30.33:493][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.10.12-10.30.33:497][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.30.33:500][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.12-10.30.33:558][152]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.10.12-10.32.30:469][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.32.30:506][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/DreamWorld" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.12-10.32.30:536][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.10.12-10.32.30:556][778]LogSavePackage: Moving output files for package: /Game/Main/Maps/DreamWorld
+[2024.10.12-10.32.30:556][778]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/DreamWorldE4AAE98C496F22B7717115AD98BFE4C7.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap'
+[2024.10.12-10.32.30:563][778]LogFileHelpers: Saving map 'DreamWorld' took 0.058
+[2024.10.12-10.32.30:574][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 11.8 sec)
+[2024.10.12-10.32.30:582][778]AssetCheck: New page: Asset Save: DreamWorld
+[2024.10.12-10.32.30:582][778]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/DreamWorld.DreamWorld
+[2024.10.12-10.32.31:430][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.32.31:439][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.32.31:439][858]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:32:31)
+[2024.10.12-10.32.31:439][858]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.32.31:445][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006930s)
+[2024.10.12-10.32.31:445][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.006973s)
+[2024.10.12-10.32.31:446][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.32.31:446][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.32.31:446][858]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.32.31:446][858]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2024.10.12-10.32.31:476][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.12-10.32.31:478][858]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.10.12-10.32.31:478][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.32.31:478][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.32.31:478][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.32.31:478][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.32.31:478][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.32.31:478][858]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.32.31:478][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.32.31:478][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.32.31:478][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.32.31:478][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.32.31:478][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.32.31:480][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.32.31:511][858]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.32.31:512][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.32.31:512][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.32.31:512][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.32.31:513][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.10.12-10.32.31:513][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.10.12-10.32.31:514][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.10.12-10.32.31:514][858]LogInit: FAudioDevice initialized with ID 55.
+[2024.10.12-10.32.31:514][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.10.12-10.32.31:514][858]LogAudio: Display: Audio Device (ID: 55) registered with world 'DreamWorld'.
+[2024.10.12-10.32.31:514][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.10.12-10.32.31:518][858]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.32.31:522][858]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.32.31
+[2024.10.12-10.32.31:522][858]LogWorld: Bringing up level for play took: 0.003550
+[2024.10.12-10.32.31:524][858]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.10.12-10.32.31:526][858]PIE: Server logged in
+[2024.10.12-10.32.31:527][858]PIE: Play in editor total start time 0.089 seconds.
+[2024.10.12-10.32.54:153][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.32.54:153][651]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.32.54:153][651]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.32.54:153][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.32.54:157][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.32.54:164][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.32.54:193][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.32.54:194][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.10.12-10.32.54:194][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.10.12-10.32.54:195][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.10.12-10.32.54:205][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.12-10.32.54:262][652]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.10.12-10.33.04:469][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.10.12-10.33.04:469][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.10.12-10.33.04:469][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.10.12-10.33.04:469][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.10.12-10.33.34:078][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.33.34:127][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/DreamWorld" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.12-10.33.34:160][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.10.12-10.33.34:179][718]LogSavePackage: Moving output files for package: /Game/Main/Maps/DreamWorld
+[2024.10.12-10.33.34:180][718]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/DreamWorld487F99C84346C6CCD71D37B68452C355.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap'
+[2024.10.12-10.33.34:188][718]LogFileHelpers: Saving map 'DreamWorld' took 0.061
+[2024.10.12-10.33.34:196][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 11.9 sec)
+[2024.10.12-10.33.34:205][718]AssetCheck: New page: Asset Save: DreamWorld
+[2024.10.12-10.33.34:205][718]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/DreamWorld.DreamWorld
+[2024.10.12-10.34.25:145][545]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.12-10.34.25:156][545]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.12-10.34.25:165][545]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.12-10.34.25:181][546]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.12-10.34.32:200][152]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Collison
+[2024.10.12-10.34.32:208][152]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.12-10.34.34:797][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison
+[2024.10.12-10.34.34:798][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.34.34:798][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.34.34:922][368]LogViewport: Scene viewport resized to 1525x1236, mode Windowed.
+[2024.10.12-10.34.34:954][369]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2024.10.12-10.34.36:286][479]LogViewport: Scene viewport resized to 1011x786, mode Windowed.
+[2024.10.12-10.34.36:337][480]LogViewport: Scene viewport resized to 1523x1250, mode Windowed.
+[2024.10.12-10.34.36:407][481]LogViewport: Scene viewport resized to 467x293, mode Windowed.
+[2024.10.12-10.34.37:001][518]LogViewport: Scene viewport resized to 469x343, mode Windowed.
+[2024.10.12-10.34.37:038][519]LogViewport: Scene viewport resized to 469x328, mode Windowed.
+[2024.10.12-10.34.37:067][520]LogViewport: Scene viewport resized to 469x316, mode Windowed.
+[2024.10.12-10.34.37:118][521]LogViewport: Scene viewport resized to 469x304, mode Windowed.
+[2024.10.12-10.34.38:175][567]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.10.12-10.34.41:741][773]Cmd: EDIT COPY
+[2024.10.12-10.36.10:132][959]BlueprintLog: New page: Compile BP_Collison
+[2024.10.12-10.36.10:209][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.12-10.36.10:963][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.36.11:008][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_Collison" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset" SILENT=true
+[2024.10.12-10.36.11:012][997]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_Collison
+[2024.10.12-10.36.11:012][997]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_CollisonAF1F98114062432EDB76989DCDE11CC5.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset'
+[2024.10.12-10.36.11:023][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 11.9 sec)
+[2024.10.12-10.36.11:029][997]AssetCheck: New page: Asset Save: BP_Collison
+[2024.10.12-10.36.11:029][997]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison
+[2024.10.12-10.36.13:337][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Main/Blueprints/BP_Collison.BP_Collison_C
+[2024.10.12-10.36.13:337][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Main/Blueprints/BP_Collison.BP_Collison_C
+[2024.10.12-10.36.13:339][123]LogActorFactory: Actor Factory spawned Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison as actor: BP_Collison_C /Game/Main/Maps/DreamWorld.DreamWorld:PersistentLevel.BP_Collison_C_0
+[2024.10.12-10.36.13:342][123]LogActorFactory: Actor Factory spawned Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison as actor: BP_Collison_C /Game/Main/Maps/DreamWorld.DreamWorld:PersistentLevel.BP_Collison_C_0
+[2024.10.12-10.36.14:455][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Main/Blueprints/BP_Collison.BP_Collison_C
+[2024.10.12-10.36.14:455][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Main/Blueprints/BP_Collison.BP_Collison_C
+[2024.10.12-10.36.14:458][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison as actor: BP_Collison_C /Game/Main/Maps/DreamWorld.DreamWorld:PersistentLevel.BP_Collison_C_1
+[2024.10.12-10.36.14:460][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison as actor: BP_Collison_C /Game/Main/Maps/DreamWorld.DreamWorld:PersistentLevel.BP_Collison_C_1
+[2024.10.12-10.36.21:573][584]Cmd: DELETE
+[2024.10.12-10.36.21:574][584]Cmd: ACTOR DELETE
+[2024.10.12-10.36.21:578][584]LogEditorActor: Deleted Actor: TriggerBox
+[2024.10.12-10.36.21:580][584]LogEditorActor: Deleted Actor: TriggerBox
+[2024.10.12-10.36.21:582][584]LogEditorActor: Deleted Actor: TriggerBox
+[2024.10.12-10.36.21:583][584]LogEditorActor: Deleted Actor: TriggerBox
+[2024.10.12-10.36.21:616][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.12-10.36.21:619][584]LogEditorActor: Deleted 4 Actors (0.045 secs)
+[2024.10.12-10.36.24:948][803]Cmd: DELETE
+[2024.10.12-10.36.24:949][803]Cmd: ACTOR DELETE
+[2024.10.12-10.37.17:222][174]BlueprintLog: New page: Compile BP_Collison
+[2024.10.12-10.37.17:303][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.12-10.37.18:048][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.37.18:102][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_Collison" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset" SILENT=true
+[2024.10.12-10.37.18:106][213]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_Collison
+[2024.10.12-10.37.18:107][213]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_CollisonF1FDED43481F0E460C0FB4A3354AED2C.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset'
+[2024.10.12-10.37.18:117][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 12.0 sec)
+[2024.10.12-10.37.18:125][213]AssetCheck: New page: Asset Save: BP_Collison
+[2024.10.12-10.37.18:125][213]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison
+[2024.10.12-10.37.19:193][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.37.19:202][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.37.19:202][285]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:37:19)
+[2024.10.12-10.37.19:202][285]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.37.19:209][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007617s)
+[2024.10.12-10.37.19:210][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.007674s)
+[2024.10.12-10.37.19:210][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.37.19:210][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.37.19:210][285]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.37.19:210][285]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2024.10.12-10.37.19:240][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.12-10.37.19:242][285]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.10.12-10.37.19:242][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.37.19:242][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.37.19:242][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.37.19:242][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.37.19:242][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.37.19:242][285]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.37.19:242][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.37.19:242][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.37.19:243][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.37.19:243][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.37.19:243][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.37.19:245][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.37.19:278][285]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.37.19:278][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.37.19:278][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.37.19:278][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.37.19:280][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.10.12-10.37.19:280][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2024.10.12-10.37.19:281][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.10.12-10.37.19:281][285]LogInit: FAudioDevice initialized with ID 56.
+[2024.10.12-10.37.19:281][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.10.12-10.37.19:281][285]LogAudio: Display: Audio Device (ID: 56) registered with world 'DreamWorld'.
+[2024.10.12-10.37.19:281][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.10.12-10.37.19:284][285]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.37.19:288][285]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.37.19
+[2024.10.12-10.37.19:289][285]LogWorld: Bringing up level for play took: 0.003887
+[2024.10.12-10.37.19:292][285]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2024.10.12-10.37.19:293][285]PIE: Server logged in
+[2024.10.12-10.37.19:294][285]PIE: Play in editor total start time 0.093 seconds.
+[2024.10.12-10.37.27:813][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.37.27:813][819]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.37.27:813][819]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.37.27:813][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.37.27:817][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.37.27:823][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.37.27:852][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-10.37.27:852][819]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.10.12-10.37.27:852][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.10.12-10.37.27:854][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.10.12-10.37.27:859][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.37.27:862][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.12-10.37.27:903][820]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2024.10.12-10.38.45:380][780]LogSlate: Window 'BP_Collison' being destroyed
+[2024.10.12-10.38.47:330][  3]BlueprintLog: New page: Compile BP_Collison
+[2024.10.12-10.38.47:388][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.12-10.39.05:860][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.39.05:900][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_Collison" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset" SILENT=true
+[2024.10.12-10.39.05:904][156]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_Collison
+[2024.10.12-10.39.05:904][156]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_Collison9CF453034A6E580B234BC2AD98684CEE.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset'
+[2024.10.12-10.39.05:913][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 12.1 sec)
+[2024.10.12-10.39.05:920][156]AssetCheck: New page: Asset Save: BP_Collison
+[2024.10.12-10.39.05:920][156]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison
+[2024.10.12-10.39.44:030][719]BlueprintLog: New page: Compile BP_Collison
+[2024.10.12-10.39.44:088][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.12-10.39.54:626][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.39.54:637][689]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.12-10.39.54:638][689]LogPlayLevel: [PlayLevel] Compiling BP_PieceSpawner before play...
+[2024.10.12-10.39.54:718][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.12-10.39.54:720][689]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2024.10.12-10.39.54:720][689]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:39:54)
+[2024.10.12-10.39.54:720][689]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.39.54:726][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005471s)
+[2024.10.12-10.39.54:726][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.005510s)
+[2024.10.12-10.39.54:726][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.39.54:726][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.39.54:726][689]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.39.54:727][689]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2024.10.12-10.39.54:755][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.12-10.39.54:756][689]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.10.12-10.39.54:756][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.39.54:756][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.39.54:756][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.39.54:756][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.39.54:756][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.39.54:756][689]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.39.54:756][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.39.54:756][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.39.54:757][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.39.54:757][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.39.54:757][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.39.54:759][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.39.54:789][689]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.39.54:789][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.39.54:789][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.39.54:789][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.39.54:790][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.10.12-10.39.54:790][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2024.10.12-10.39.54:793][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.10.12-10.39.54:793][689]LogInit: FAudioDevice initialized with ID 57.
+[2024.10.12-10.39.54:793][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.10.12-10.39.54:793][689]LogAudio: Display: Audio Device (ID: 57) registered with world 'DreamWorld'.
+[2024.10.12-10.39.54:793][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.10.12-10.39.54:796][689]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.39.54:799][689]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.39.54
+[2024.10.12-10.39.54:799][689]LogWorld: Bringing up level for play took: 0.003828
+[2024.10.12-10.39.54:802][689]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2024.10.12-10.39.54:804][689]PIE: Server logged in
+[2024.10.12-10.39.54:805][689]PIE: Play in editor total start time 0.168 seconds.
+[2024.10.12-10.40.20:063][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.40.20:065][655]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.40.20:065][655]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.40.20:069][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.40.20:072][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.40.20:078][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.40.20:108][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.40.20:109][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.10.12-10.40.20:109][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.10.12-10.40.20:110][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.10.12-10.40.20:120][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.12-10.40.20:146][656]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.10.12-10.40.37:376][265]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2024.10.12-10.41.14:883][192]BlueprintLog: New page: Compile BP_Collison
+[2024.10.12-10.41.14:942][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.12-10.41.17:101][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.41.17:109][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.41.17:110][365]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:41:17)
+[2024.10.12-10.41.17:110][365]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.41.17:116][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006805s)
+[2024.10.12-10.41.17:117][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.006852s)
+[2024.10.12-10.41.17:117][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.41.17:117][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.41.17:117][365]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.41.17:117][365]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2024.10.12-10.41.17:146][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.12-10.41.17:148][365]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.10.12-10.41.17:148][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.41.17:148][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.41.17:148][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.41.17:148][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.41.17:148][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.41.17:148][365]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.41.17:148][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.41.17:148][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.41.17:149][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.41.17:149][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.41.17:149][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.41.17:151][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.41.17:181][365]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.41.17:181][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.41.17:181][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.41.17:181][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.41.17:182][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.10.12-10.41.17:182][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2024.10.12-10.41.17:184][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.10.12-10.41.17:184][365]LogInit: FAudioDevice initialized with ID 58.
+[2024.10.12-10.41.17:184][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.10.12-10.41.17:184][365]LogAudio: Display: Audio Device (ID: 58) registered with world 'DreamWorld'.
+[2024.10.12-10.41.17:184][365]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.10.12-10.41.17:187][365]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.41.17:191][365]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.41.17
+[2024.10.12-10.41.17:191][365]LogWorld: Bringing up level for play took: 0.003814
+[2024.10.12-10.41.17:193][365]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2024.10.12-10.41.17:195][365]PIE: Server logged in
+[2024.10.12-10.41.17:196][365]PIE: Play in editor total start time 0.087 seconds.
+[2024.10.12-10.41.39:905][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.41.39:906][232]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.41.39:907][232]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.41.39:911][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.41.39:915][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.41.39:922][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.41.39:954][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-10.41.39:954][232]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.10.12-10.41.39:954][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.10.12-10.41.39:956][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.10.12-10.41.39:961][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.41.39:965][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.12-10.41.39:993][233]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.10.12-10.42.15:916][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.42.15:958][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_Collison" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset" SILENT=true
+[2024.10.12-10.42.15:966][447]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_Collison
+[2024.10.12-10.42.15:967][447]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_Collison7B611A7A4D716ECBF4EF669EE2789AEC.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset'
+[2024.10.12-10.42.15:978][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 12.1 sec)
+[2024.10.12-10.42.15:988][447]AssetCheck: New page: Asset Save: BP_Collison
+[2024.10.12-10.42.15:988][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison
+[2024.10.12-10.43.43:845][478]BlueprintLog: New page: Compile BP_Piece
+[2024.10.12-10.43.43:916][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.12-10.43.45:463][602]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.43.45:471][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.43.45:471][602]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:43:45)
+[2024.10.12-10.43.45:471][602]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.43.45:479][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007605s)
+[2024.10.12-10.43.45:480][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.007663s)
+[2024.10.12-10.43.45:480][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.43.45:480][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.43.45:480][602]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.43.45:481][602]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2024.10.12-10.43.45:511][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.12-10.43.45:514][602]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.10.12-10.43.45:514][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.43.45:514][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.43.45:514][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.43.45:514][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.43.45:514][602]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.43.45:514][602]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.43.45:514][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.43.45:514][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.43.45:515][602]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.43.45:515][602]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.43.45:515][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.43.45:517][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.43.45:546][602]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.43.45:547][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.43.45:547][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.43.45:547][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.43.45:547][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.10.12-10.43.45:547][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2024.10.12-10.43.45:549][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.10.12-10.43.45:549][602]LogInit: FAudioDevice initialized with ID 59.
+[2024.10.12-10.43.45:549][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.10.12-10.43.45:549][602]LogAudio: Display: Audio Device (ID: 59) registered with world 'DreamWorld'.
+[2024.10.12-10.43.45:549][602]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.10.12-10.43.45:553][602]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.43.45:557][602]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.43.45
+[2024.10.12-10.43.45:557][602]LogWorld: Bringing up level for play took: 0.003821
+[2024.10.12-10.43.45:559][602]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2024.10.12-10.43.45:561][602]PIE: Server logged in
+[2024.10.12-10.43.45:562][602]PIE: Play in editor total start time 0.091 seconds.
+[2024.10.12-10.44.03:913][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.44.03:913][985]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.44.03:913][985]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.44.03:919][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.44.03:922][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.44.03:927][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.44.03:955][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-10.44.03:956][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.10.12-10.44.03:957][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.10.12-10.44.03:958][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.10.12-10.44.03:962][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.44.03:967][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.10.12-10.44.03:994][986]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2024.10.12-10.45.05:383][347]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.45.05:391][347]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.12-10.45.05:418][347]LogPlayLevel: [PlayLevel] Compiling BP_Collison before play...
+[2024.10.12-10.45.05:506][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.12-10.45.05:509][347]LogPlayLevel: PlayLevel: Blueprint regeneration took 117 ms (1 blueprints)
+[2024.10.12-10.45.05:509][347]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:45:05)
+[2024.10.12-10.45.05:510][347]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.45.05:515][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005459s)
+[2024.10.12-10.45.05:515][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.005498s)
+[2024.10.12-10.45.05:515][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.45.05:515][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.45.05:515][347]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.45.05:515][347]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2024.10.12-10.45.05:544][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.12-10.45.05:545][347]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.10.12-10.45.05:545][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.45.05:546][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.45.05:546][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.45.05:546][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.45.05:546][347]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.45.05:546][347]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.45.05:546][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.45.05:546][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.45.05:546][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.45.05:546][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.45.05:546][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.45.05:548][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.45.05:577][347]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.45.05:577][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.45.05:577][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.45.05:577][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.45.05:578][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.10.12-10.45.05:578][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2024.10.12-10.45.05:580][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.10.12-10.45.05:580][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.10.12-10.45.05:580][347]LogInit: FAudioDevice initialized with ID 60.
+[2024.10.12-10.45.05:580][347]LogAudio: Display: Audio Device (ID: 60) registered with world 'DreamWorld'.
+[2024.10.12-10.45.05:580][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.10.12-10.45.05:584][347]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.45.05:588][347]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.45.05
+[2024.10.12-10.45.05:588][347]LogWorld: Bringing up level for play took: 0.003664
+[2024.10.12-10.45.05:590][347]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.10.12-10.45.05:592][347]PIE: Server logged in
+[2024.10.12-10.45.05:593][347]PIE: Play in editor total start time 0.202 seconds.
+[2024.10.12-10.45.17:933][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.45.17:933][344]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.45.17:933][344]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.45.17:935][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.45.17:940][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.45.17:946][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.45.17:976][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.45.17:977][344]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.10.12-10.45.17:977][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.10.12-10.45.17:979][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.10.12-10.45.17:987][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.12-10.45.18:014][345]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.10.12-10.45.22:970][849]BlueprintLog: New page: Compile BP_Piece
+[2024.10.12-10.45.23:028][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.12-10.45.24:377][956]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-10.45.24:384][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-10.45.24:384][956]PIE: New page: PIE session: DreamWorld (12 Oct 2024, 16:45:24)
+[2024.10.12-10.45.24:384][956]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.45.24:394][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009408s)
+[2024.10.12-10.45.24:394][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/DreamWorld.DreamWorld to /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld (0.009459s)
+[2024.10.12-10.45.24:394][956]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-10.45.24:394][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-10.45.24:394][956]LogAIModule: Creating AISystem for world DreamWorld
+[2024.10.12-10.45.24:395][956]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2024.10.12-10.45.24:428][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.12-10.45.24:432][956]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2024.10.12-10.45.24:432][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-10.45.24:432][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-10.45.24:432][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-10.45.24:432][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-10.45.24:432][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-10.45.24:432][956]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.12-10.45.24:432][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-10.45.24:432][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-10.45.24:433][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-10.45.24:433][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-10.45.24:433][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-10.45.24:436][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-10.45.24:464][956]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis 7+)
+[2024.10.12-10.45.24:465][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-10.45.24:465][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-10.45.24:465][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-10.45.24:465][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2024.10.12-10.45.24:465][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2024.10.12-10.45.24:469][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2024.10.12-10.45.24:469][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2024.10.12-10.45.24:469][956]LogInit: FAudioDevice initialized with ID 61.
+[2024.10.12-10.45.24:469][956]LogAudio: Display: Audio Device (ID: 61) registered with world 'DreamWorld'.
+[2024.10.12-10.45.24:469][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2024.10.12-10.45.24:472][956]LogLoad: Game class is 'testGM_C'
+[2024.10.12-10.45.24:475][956]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_DreamWorld.DreamWorld up for play (max tick rate 0) at 2024.10.12-13.45.24
+[2024.10.12-10.45.24:475][956]LogWorld: Bringing up level for play took: 0.003771
+[2024.10.12-10.45.24:478][956]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.10.12-10.45.24:480][956]PIE: Server logged in
+[2024.10.12-10.45.24:480][956]PIE: Play in editor total start time 0.096 seconds.
+[2024.10.12-10.45.55:364][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.45.55:364][526]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_DreamWorld
+[2024.10.12-10.45.55:364][526]LogWorld: UWorld::CleanupWorld for DreamWorld, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-10.45.55:369][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.45.55:374][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-10.45.55:380][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-10.45.55:411][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-10.45.55:411][526]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2024.10.12-10.45.55:411][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.10.12-10.45.55:413][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.10.12-10.45.55:418][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-10.45.55:421][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.12-10.45.55:459][527]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.10.12-10.46.00:597][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.46.00:641][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_Collison" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset" SILENT=true
+[2024.10.12-10.46.00:650][961]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_Collison
+[2024.10.12-10.46.00:650][961]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_CollisonB500906E499BDF7EDADA44B996C19594.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset'
+[2024.10.12-10.46.00:660][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 12.2 sec)
+[2024.10.12-10.46.00:669][961]AssetCheck: New page: Asset Save: BP_Collison
+[2024.10.12-10.46.00:669][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison
+[2024.10.12-10.46.06:180][553]BlueprintLog: New page: Compile BP_Collison
+[2024.10.12-10.46.06:238][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.12-10.46.08:256][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.46.08:296][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestCharacter/papertestcharacter" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset" SILENT=true
+[2024.10.12-10.46.08:330][778]LogSavePackage: Moving output files for package: /Game/TestCharacter/papertestcharacter
+[2024.10.12-10.46.08:330][778]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/papertestcharacter3405BBE549D34EEE6E83969754BF5293.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset'
+[2024.10.12-10.46.08:341][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 12.3 sec)
+[2024.10.12-10.46.08:347][778]AssetCheck: New page: Asset Save: papertestcharacter
+[2024.10.12-10.46.08:348][778]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestCharacter/papertestcharacter.papertestcharacter
+[2024.10.12-10.46.09:270][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.12-10.46.09:298][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.12-10.46.10:031][885]LogSlate: Window 'Save Content' being destroyed
+[2024.10.12-10.46.10:046][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.46.10:083][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/DreamWorld" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.12-10.46.10:110][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.12-10.46.10:129][885]LogSavePackage: Moving output files for package: /Game/Main/Maps/DreamWorld
+[2024.10.12-10.46.10:130][885]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/DreamWorld802750CD4D42B37A322D0485CD8FE4DF.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Maps/DreamWorld.umap'
+[2024.10.12-10.46.10:140][885]LogFileHelpers: Saving map 'DreamWorld' took 0.057
+[2024.10.12-10.46.10:141][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_Collison" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset" SILENT=true
+[2024.10.12-10.46.10:146][885]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_Collison
+[2024.10.12-10.46.10:146][885]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_CollisonE1CCA24D41688BBD5C6C06B6FF00B5BF.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Collison.uasset'
+[2024.10.12-10.46.10:184][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_Piece" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Piece.uasset" SILENT=true
+[2024.10.12-10.46.10:197][885]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_Piece
+[2024.10.12-10.46.10:197][885]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_Piece415CFC8144673D70A7D20996A18308D2.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_Piece.uasset'
+[2024.10.12-10.46.10:198][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/BP_PieceSpawner" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_PieceSpawner.uasset" SILENT=true
+[2024.10.12-10.46.10:210][885]LogSavePackage: Moving output files for package: /Game/Main/Blueprints/BP_PieceSpawner
+[2024.10.12-10.46.10:210][885]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/BP_PieceSpawner6104C46F41129FAA9422BE90E68342B7.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Blueprints/BP_PieceSpawner.uasset'
+[2024.10.12-10.46.10:213][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Sprites/hand" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Sprites/hand.uasset" SILENT=true
+[2024.10.12-10.46.10:298][885]LogSavePackage: Moving output files for package: /Game/Main/Sprites/hand
+[2024.10.12-10.46.10:298][885]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/hand0CB14A4443CF70845330549497193BD2.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/Main/Sprites/hand.uasset'
+[2024.10.12-10.46.10:308][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 262 ms (total: 12.5 sec)
+[2024.10.12-10.46.10:317][885]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.12-10.46.10:317][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_Piece.BP_Piece
+[2024.10.12-10.46.10:317][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_PieceSpawner.BP_PieceSpawner
+[2024.10.12-10.46.10:317][885]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main/Maps/DreamWorld.DreamWorld
+[2024.10.12-10.46.10:317][885]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Main/Sprites/hand.hand
+[2024.10.12-10.46.10:317][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main/Blueprints/BP_Collison.BP_Collison
+[2024.10.12-10.46.12:967][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-10.46.13:020][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestCharacter/papertestcharacter" FILE="../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset" SILENT=true
+[2024.10.12-10.46.13:075][200]LogSavePackage: Moving output files for package: /Game/TestCharacter/papertestcharacter
+[2024.10.12-10.46.13:075][200]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Saved/papertestcharacterF165C1544096BD4D34BA1C8B1400E7D9.tmp' to '../../../../../Projects/Unreal Engine 5/GameCamp_lite/Content/TestCharacter/papertestcharacter.uasset'
+[2024.10.12-10.46.13:084][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 12.7 sec)
+[2024.10.12-10.46.13:090][200]AssetCheck: New page: Asset Save: papertestcharacter
+[2024.10.12-10.46.13:090][200]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestCharacter/papertestcharacter.papertestcharacter
